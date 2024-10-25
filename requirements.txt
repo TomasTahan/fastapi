@@ -1,2 +1,7 @@
 fastapi
 uvicorn
+swarm
+requests
+openai
+python-dotenv  # para manejar variables de entorno
+pydantic  # utilizado para definir modelos de datos
